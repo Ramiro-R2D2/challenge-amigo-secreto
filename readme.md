@@ -1,4 +1,4 @@
-# Amigo Secreto Interativo 
+# Challenge Amigo Secreto
 
 Um sistema simples para criar pares de amigos secretos de forma interativa. A cada clique no botão de sorteio, revela um novo par sequencial, mantendo a emoção e a surpresa!
 
